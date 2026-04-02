@@ -35,7 +35,7 @@ python main.py
 
 ## 데이터 저장
 
-`study_data.json` 파일에 자동 저장
+`study_data.json` 파일에 자동 저장\n
 앱을 종료해도 기록이 유지됩니다
 
 ## 업데이트 예정
