@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# json 파일 제거(플래너 생성 시 개인화된 json생성되는데 그거 커밋방지)
+*.json
