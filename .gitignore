@@ -619,3 +619,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# json파일 무시(과목 생성하면 개인화된 json파일 생성되는데 이거 무시)
+*.json
